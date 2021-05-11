@@ -1,8 +1,6 @@
 package com.devsuper.dsvendas.dto;
 
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.List;
 
 import com.devsuper.dsvendas.entities.Seller;
 
